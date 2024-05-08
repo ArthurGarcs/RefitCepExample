@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dp1hzhDkGs4xQW1x03aB2SMR5WvqbaEHJHE/Kc/BLXkF8UJEFSOl2m5f1JPSwlf+kKEEZ9mZRbpFOQS+bHGOUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows10Pro\\source\\repos\\REfitCepExemplo\\REfitCepExemplo\\RefitCepExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows10Pro\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Windows10Pro\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\Windows10Pro\\.nuget\\packages\\refit.newtonsoft.json\\7.0.0\\refit.newtonsoft.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Windows10Pro\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\Windows10Pro\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Windows10Pro\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

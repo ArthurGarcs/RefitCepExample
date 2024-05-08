@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefitCepExample", "REfitCepExemplo\RefitCepExample.csproj", "{CEF1462A-68EF-4E13-8C41-29713C7FED97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF1462A-68EF-4E13-8C41-29713C7FED97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF1462A-68EF-4E13-8C41-29713C7FED97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF1462A-68EF-4E13-8C41-29713C7FED97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF1462A-68EF-4E13-8C41-29713C7FED97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023FA467-FA30-4A12-B0C9-31B0397EAB6A}
+	EndGlobalSection
+EndGlobal
